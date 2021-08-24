@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import { useState } from "react";
 import { useRouter } from "next/router";
-import SearchInput from "../components/SearchInput";
+import SearchInput from "./SearchInput";
 
 
 const Layout = ({ children }) => {
