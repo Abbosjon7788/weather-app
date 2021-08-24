@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,800&display=swap");
+
+.layout {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  background-color: #e5e5e5;
+}
+
+.text-color {
+  color: #124a63;
+}
+
+.text-color-secondary {
+  color: #b9c9d1;
+}
+
+.text-orange {
+  color: #eb6e4b;
+}
+
+.border-color {
+  border-color: #eb6e4b;
+}
+
+.input-width {
+  width: calc(100% - 96px);
+}
